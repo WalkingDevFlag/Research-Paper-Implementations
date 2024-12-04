@@ -52,4 +52,4 @@ This project implements a Transformer model from scratch using PyTorch. The Tran
 
 ## MIT License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
