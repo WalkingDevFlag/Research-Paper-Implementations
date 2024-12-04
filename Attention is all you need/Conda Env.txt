@@ -1,0 +1,9 @@
+Conda Env
+
+1) conda create -n rp python=3.9
+
+2) conda activate rp
+
+3) pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+4) pip install ipykernel
