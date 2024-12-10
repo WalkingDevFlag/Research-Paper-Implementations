@@ -1,4 +1,4 @@
-# Viterbi Algorithm for Hidden Markov Model (HMM)
+# Hidden Markov Model (HMM)
 
 ## Overview
 This Python script implements the Viterbi algorithm for decoding the most probable sequence of hidden states in a Hidden Markov Model (HMM). Given a set of states, transition probabilities, emission probabilities, and an observation sequence, the algorithm finds the optimal path through the hidden states that best explains the observations.
