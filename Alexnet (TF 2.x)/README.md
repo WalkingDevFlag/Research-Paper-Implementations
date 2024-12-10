@@ -30,15 +30,11 @@ Follow these steps to set up the required environment using Conda:
     ```
 
 ## Usage
-1. Clone the repository:
-    ```bash
-    git clone <repository-url>
-    cd <repository-directory>
-    ```
+1.Clone or download the script.
 
 2. Run the script:
     ```bash
-    python alexnet_template.py
+    python Alexnet.py
     ```
 
 3. Modify the script:
