@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-class InceptionBlock(nn.Module):
+class inceptionBlock(nn.Module):
     def __init__(self, in_channels, out_channels):
         super().__init__()
         self.relu = nn.ReLU()
@@ -39,10 +39,10 @@ class AuxClassifier(nn.Module):
         x = self.fc2(x)
         return x
 
-class InceptionV2(nn.Module): 
+class inceptionV1(nn.Module): 
     def __init__(self, in_channels, feature_maps, classes):
         super().__init__()
-        self.Blocks = nn.ModuleList([InceptionBlock(in_channels[i], feature_maps[i]) for i in range(len(feature_maps))])
+        self.Blocks = nn.ModuleList([inceptionBlock(in_channels[i], feature_maps[i]) for i in range(len(feature_maps))])
         self.aux1 = AuxClassifier(512, classes)
         self.aux2 = AuxClassifier(528,classes)
         self.Conv1 = nn.Conv2d(in_channels=3, out_channels=64, kernel_size=7, stride=2, padding=3)
@@ -82,7 +82,7 @@ class InceptionV2(nn.Module):
     
 
 '''
-class InceptionV1(nn.Module): 
+class inceptionV1(nn.Module): 
     def __init__(self, in_depth=3, classes=1000):
         super().__init__()
 
@@ -100,7 +100,7 @@ class InceptionV1(nn.Module):
     
         self.AuxClass1 = AuxClassifier(512, classes)
         self.AuxClass2 = AuxClassifier(528,classes)
-        self.Blocks = nn.ModuleList([InceptionBlock(in_channels[i], feature_maps[i]) for i in range(len(feature_maps))])
+        self.Blocks = nn.ModuleList([inceptionBlock(in_channels[i], feature_maps[i]) for i in range(len(feature_maps))])
         
         # Rest of the model
         self.Conv7k = nn.Conv2d(in_channels=in_depth, out_channels=64, kernel_size=7, stride=2, padding=3)
@@ -153,7 +153,7 @@ if __name__ == "__main__":
                     [256, 160, 320, 32, 128, 128],
                     [384, 192, 384, 48, 128, 128]
                 ]
-    Inception = InceptionV2(in_channels, feature_maps, 1000)
-    outs = Inception(torch.rand(16, 3, 224, 224))
+    inception = inceptionV1(in_channels, feature_maps, 1000)
+    outs = inception(torch.rand(16, 3, 224, 224))
     for out in outs:
         print(out.shape)
