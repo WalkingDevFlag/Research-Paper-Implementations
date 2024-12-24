@@ -1,0 +1,77 @@
+Medical GitHub Projects:
+
+1) https://github.com/611noorsaeed/Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning
+2) https://github.com/A1fred00-datascience/WHOOP
+3) https://github.com/ericmattos/Heart-Failure-Clustering
+4) https://github.com/moggirain/Hospital_readmission_prediction
+5) https://github.com/hitesh19426/ddinter-main
+6) https://github.com/imonishkumar/Symptom-Checker-Chatbot
+
+
+
+AI GitHub Projects:
+
+1) https://github.com/nooqta/ai-content
+2) https://github.com/finaldie/auto-news
+3) https://github.com/SwayamInSync/clothes-virtual-try-on
+4) https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting
+5) https://github.com/utkarsh1148/Golf-Trail
+
+
+
+Finance GitHub Projects:
+
+1) https://github.com/bjorn/raccoin
+2) https://github.com/joelkanyi/Savings-Zetu-App
+3) https://github.com/actualbudget/actual
+4) https://github.com/gopikasr/Chat-Bot---Financial-digital-Assistant
+
+
+
+Trading GitHub Projects:
+
+1) https://github.com/tuhinmallick/InsiderTrader
+2) https://github.com/SheikhRabiul/A-Deep-Learning-Based-Illegal-Insider-Trading-Detection-and-Prediction-Technique-in-Stock-Market
+3) https://github.com/quantmuse/portfolio-optimizer-esg-score
+4) https://github.com/LucS12/ESG-Score-Integration
+5) https://github.com/krivi95/option-pricing-models
+6) https://github.com/CryptoGnome/Tradingview-Webhook-Bot
+7) https://github.com/tradingstrategy-ai/getting-started
+8) https://github.com/cryptocontrol/sentiment-trading-bot
+
+
+
+F1 GitHub Projects:
+
+1) https://github.com/theOehrly/Fast-F1
+2) https://github.com/Casper-Guo/Armchair-Strategist
+3) https://github.com/ChintanTrivedi/football_ai_commentary
+4) https://github.com/nesboonstra/f1_xo_project
+5) https://github.com/larisoncarvalho/F1-Analytics-AI
+6) https://github.com/Jared-Chan/f1ml
+7) https://github.com/TomWebster98/Race-Strategy-Analysis
+8) https://github.com/chandanamulagund/Maximizing-Performance-Data-Analysis-of-Formula-1-Driver-and-Race-Data
+
+
+
+Data Analytics GitHub Projects:
+
+1) https://github.com/shrunalisalian/Spotify-Data-Visualization
+2) https://github.com/TheAhmadOsman/BestCarDeal
+3) https://github.com/netguru/CarLens-iOS
+4) https://github.com/haoyu-he/ImageCaption
+5) https://github.com/suhasmaddali/Twitter-Sentiment-Analysis
+6) https://github.com/chawla201/Custom-Named-Entity-Recognition
+7) https://github.com/haoshuai999/News-summarization
+8) https://github.com/Justmephoenix/PHISHING-DETECTION-WITH-NLP
+9) https://github.com/Kiinitix/Malware-Detection-using-Machine-learning
+10) https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning
+11) https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning
+12) https://github.com/Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System
+
+
+
+IDK GitHub Projects:
+
+1) https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Slack-Archiver.md
+2) https://github.com/mmorth/Allergy-Label-Checker
