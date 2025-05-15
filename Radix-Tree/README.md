@@ -1,4 +1,3 @@
-```markdown
 # Python Radix Tree Implementation
 
 This repository contains a Python implementation of a Radix Tree (also known as a Patricia Trie or compact prefix tree). A Radix Tree is a space-optimized trie data structure that stores string keys efficiently. Nodes with only one child are merged with that child, resulting in edges labeled with sequences of characters rather than single characters.
@@ -111,4 +110,3 @@ The provided code attempts to keep these core logic parts explicit and readable.
 ## Potential Further Optimizations (Beyond this Scope)
 
 For extreme performance in a production system (e.g., low-level networking or large-scale databases), Radix Trees might be implemented in C/C++/Rust or use more advanced memory management techniques. However, this Python implementation serves as an excellent way to learn and prototype.
-```
